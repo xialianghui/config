@@ -1,5 +1,24 @@
 {
+    "updateTime":"202410151500",
     "applicationId": "online.xloved.myapplication",
     "versionName": "v2.0.202408091039",
-    "apkUrl": "mm_202408091039.apk"
+    "apkUrl": "mm_202408091039.apk",
+    "website": [
+        {
+            "web": "xrmnw",
+            "url": "https://www.xrmnw.cc/"
+        },
+        {
+            "web": "xrj",
+            "url": "https://www.quanjixiu.com/"
+        },
+        {
+            "web": "mrt",
+            "url": "https://meirentu.me/"
+        },
+        {
+            "web": "mtl",
+            "url": "https://www.meitule.com/"
+        }
+    ]
 }
