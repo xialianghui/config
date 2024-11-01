@@ -1,5 +1,5 @@
 {
-    "updateTime":"202410151500",
+    "updateTime":"202411011633",
     "applicationId": "online.xloved.myapplication",
     "versionName": "v2.0.202410160824",
     "outputFile": "mm_202410150824.apk",
@@ -19,6 +19,124 @@
         {
             "web": "mtl",
             "url": "https://www.meitule.com/"
+        }
+    ],
+    "albums": [
+        {
+            "id": "qycl",
+            "title": "骑有此李"
+        },
+        {
+            "id": "cookieasdf",
+            "title": "Fans"
+        },
+        {
+            "id": "kawaii2020",
+            "title": "Kawaii2020"
+        },
+        {
+            "id": "luo-lin",
+            "title": "luo lin"
+        },
+        {
+            "id": "uukcom",
+            "title": "Uukcom"
+        },
+        {
+            "id": "crow1923",
+            "title": "Crow1923"
+        },
+        {
+            "id": "lyou9527",
+            "title": "Lyou9527"
+        },
+        {
+            "id": "lyx123789",
+            "title": "Lyx123789"
+        },
+        {
+            "id": "329818578",
+            "title": "看看不说话"
+        },
+        {
+            "id": "lh8030",
+            "title": "Lh8030"
+        },
+        {
+            "id": "oo14749360996",
+            "title": "雪白的大奶子"
+        },
+        {
+            "id": "happy--everyday",
+            "title": "Happy--everyday"
+        },
+        {
+            "id": "feizi-246810",
+            "title": "Feizi-246810"
+        },
+        {
+            "id": "kawakaze",
+            "title": "极限战士灌注忠诚基因"
+        },
+        {
+            "id": "tieu-dinh-96",
+            "title": "Tiểu Đình"
+        },
+        {
+            "id": "2920215920",
+            "title": "2920215920"
+        },
+        {
+            "id": "u3252",
+            "title": "Matrix"
+        },
+        {
+            "id": "cacarota",
+            "title": "Cacarota"
+        },
+        {
+            "id": "oddbai",
+            "title": "Oldbai"
+        },
+        {
+            "id": "crazy-dave-80",
+            "title": "Crazy-dave-80"
+        },
+        {
+            "id": "jesushdh",
+            "title": "零二一"
+        },
+        {
+            "id": "qwedc",
+            "title": "Meow Xiaoji's wife"
+        },
+        {
+            "id": "aili",
+            "title": "Aili"
+        },
+        {
+            "id": "tamatama",
+            "title": "tamatama"
+        },
+        {
+            "id": "yydsi",
+            "title": "yyds"
+        },
+        {
+            "id": "siflyfly",
+            "title": "BeautyVenus 美女維納斯"
+        },
+        {
+            "id": "womanart132",
+            "title": "Womanart132"
+        },
+        {
+            "id": "yhimgbb",
+            "title": "Yhimgbb"
+        },
+        {
+            "id": "afc123",
+            "title": "KuPa"
         }
     ]
 }
